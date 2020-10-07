@@ -5,3 +5,7 @@ I've managed to use some degree of HTML and CSS, although frankly with a lot lef
 CORRECTION
 
 I had earlier tried using display:flex on the body element to do it, but things just went haywire, so instead I did it for each individual element. Upon realizing that I had forgotten to set the flex-direction to column, I did so. Which also fixed my footer.
+
+FINAL ADDITION
+
+Went ahead and added button highlighting while I was at it.
